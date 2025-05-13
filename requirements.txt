@@ -1,0 +1,12 @@
+# Automatización web
+selenium>=4.10.0
+webdriver-manager>=4.0.0
+
+# Interfaz gráfica
+PyQt5>=5.15.9
+
+# Encriptación
+cryptography>=41.0.0
+
+# Compilación
+pyinstaller>=5.13.0
