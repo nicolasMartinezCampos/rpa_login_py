@@ -15,7 +15,7 @@ Desarrollado por [Nicolás Martínez](https://www.linkedin.com/in/martineznae/)
 - Modo headless (sin interfaz de navegador)
 - Compilación a ejecutable standalone (.exe)
 
-## Requisitos
+## Requisitosi
 
 ```bash
 pip install -r requirements.txt
@@ -73,7 +73,3 @@ Las credenciales se almacenan de forma segura en `config.json` y se encriptan us
 - Las credenciales se almacenan encriptadas
 - La clave de encriptación se genera automáticamente
 - No se almacenan credenciales en texto plano
-
-## Contribuir
-
-Si encuentras un bug o tienes una sugerencia, por favor abre un issue o envía un pull request.
